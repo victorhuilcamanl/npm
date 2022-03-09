@@ -1,2 +1,1 @@
-# npm
-curso npm
+# curso-npm
